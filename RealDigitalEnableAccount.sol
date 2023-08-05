@@ -29,7 +29,7 @@ contract RealDigitalEnableAccount {
      */
     function enableAccount(address member) public {
         require(
-            accessControlAddress.hasRole(ACCESS_ROLE, msg.sender),
+            accessControlAddress.verifyAccount(msg.sender),
             "Must be participant"
         );
         accessControlAddress.enableAccount(member);
