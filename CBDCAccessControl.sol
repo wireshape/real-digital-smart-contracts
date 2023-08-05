@@ -49,14 +49,9 @@ abstract contract CBDCAccessControl is AccessControl {
         _setupRole(FREEZER_ROLE, _authority);
         _setupRole(PAUSER_ROLE, _admin);
 
-        bytes32 _authorityHash = keccak256(abi.encodePacked(_authority));
+        bytes32 _adminHash = keccak256(abi.encodePacked(_admin));
 
-        _setRoleAdmin(PAUSER_ROLE, _authorityHash);
-        _setRoleAdmin(MINTER_ROLE, _authorityHash);
-        _setRoleAdmin(ACCESS_ROLE, _authorityHash);
-        _setRoleAdmin(MOVER_ROLE, _authorityHash);
-        _setRoleAdmin(BURNER_ROLE, _authorityHash);
-        _setRoleAdmin(FREEZER_ROLE, _authorityHash);
+        _setRoleAdmin(DEFAULT_ADMIN_ROLE, _adminHash);
     }
 
     /**
