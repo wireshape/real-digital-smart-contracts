@@ -33,4 +33,4 @@ Os smart contracts aqui disponibilizados foram desenvolvidos pela Wire Labs e se
 
 ## Contato
 
-Para qualquer dúvida, sinta-se à vontade para entrar em contato: ingrid@wireshape.net
+Para qualquer dúvida, sinta-se à vontade para entrar em contato: ingrid.gomes@wireshape.net
