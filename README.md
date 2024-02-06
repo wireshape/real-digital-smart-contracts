@@ -7,7 +7,7 @@ O Real Digital, ou Drex - nome definido para a nova moeda digital do Brasil, é 
 A Wireshape fornece um ambiente de testes simulado para o Real Digital CBDC. Neste ambiente você pode experimentar e interagir com os contratos inteligentes do Real Digital Simulado **sem precisar configurar sua própria infraestrutura**.
 
 Para participar **gratuitamente** do programa, preencha o formulário com as informações necessárias para o cadastro na rede como **Instituição Financeira Simulada**:
-📌 https://airtable.com/appxg0TUKOX8pNwwf/shr4huyFQ4J2sq5oD
+📌 https://wireshape.org/apply/drex-sandbox-program
 
 ### Recursos do Programa: 
 
@@ -29,8 +29,8 @@ Este projeto está licenciado sob a Licença MIT. Para mais informações, consu
 
 ## Créditos e Agradecimentos
 
-Os smart contracts aqui disponibilizados foram desenvolvidos pela Wire Labs e seus contribuidores. Gostaríamos de agradecer à equipe do Bacen pela liberação das [ABIs do Real Digital](https://github.com/bacen/pilotord-kit-onboarding) e aos esforços de reconstrução dos contratos que nos ajudaram em estudos e testes: https://github.com/begrossi/pilotord-kit-onboarding/tree/main e https://github.com/itxtoledo/real-digital-reverse-engineering.
+Os smart contracts aqui disponibilizados foram desenvolvidos pela Wire Labs e seus contribuidores. Gostaríamos de agradecer à equipe do Bacen pela liberação das [ABIs do Real Digital](https://github.com/bacen/pilotord-kit-onboarding) e aos esforços de reconstrução dos contratos que nos ajudaram em estudos e testes, como https://github.com/begrossi/pilotord-kit-onboarding/tree/main.
 
 ## Contato
 
-Para qualquer dúvida, sinta-se à vontade para entrar em contato: ingrid.gomes@wireshape.net
+Para qualquer dúvida, sinta-se à vontade para entrar em contato.
