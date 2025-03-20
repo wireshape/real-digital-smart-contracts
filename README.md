@@ -6,7 +6,7 @@ O Real Digital, ou Drex - nome definido para a nova moeda digital do Brasil, é 
 ## Programa Real Digital Simulado
 A Wireshape fornece um ambiente de testes simulado para o Real Digital CBDC. Neste ambiente você pode experimentar e interagir com os contratos inteligentes do Real Digital Simulado **sem precisar configurar sua própria infraestrutura**.
 
-Para participar **gratuitamente** do programa, preencha o formulário com as informações necessárias para o cadastro na rede como **Instituição Financeira Simulada**:
+Para participar do programa, preencha o formulário com as informações necessárias para o cadastro na rede como **Instituição Financeira Simulada**:
 
 📌 PT: [https://wireshape.org/use-cases/drex-sandbox-pt](https://wireshape.org/use-cases/drex-sandbox-pt)
 
